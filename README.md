@@ -64,7 +64,7 @@ StudyShare/
 
 > Hosted on GitHub Pages
 
-🔗 **[studyshare-live-link](https://ahidnahid.github.io/StudyShare-Nexus)**
+🔗 **[Live Demo](https://mdahidulislam5113-gif.github.io/StudyShare-Nexus/)**
 
 ---
 
@@ -74,7 +74,7 @@ No setup needed — pure frontend project.
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/ahidnahid/StudyShare-Nexus.git
+   git clone https://github.com/mdahidulislam5113-gif/StudyShare-Nexus.git
    ```
 
 2. Open `index.html` in any browser — done!
