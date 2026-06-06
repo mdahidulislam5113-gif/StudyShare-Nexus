@@ -8,16 +8,16 @@ A frontend web application where university students can buy and sell course not
 ## 🖥️ Screenshots
 
 ### Home Page
-![StudyShare Home](screenshots/studyshare_home.png)
+![StudyShare Home](StudyShare_screenshots/studyshare_home.png)
 
 ### Browse Notes
-![StudyShare Browse](screenshots/studyshare_browse.png)
+![StudyShare Browse](StudyShare_screenshots/studyshare_browse.png)
 
 ### Upload Notes
-![StudyShare Upload](screenshots/studyshare_upload.png)
+![StudyShare Upload](StudyShare_screenshots/studyshare_upload.png)
 
 ### Student Profile
-![StudyShare Profile](screenshots/studyshare_profile.png)
+![StudyShare Profile](StudyShare_screenshots/studyshare_profile.png)
 
 ---
 
